@@ -41,7 +41,7 @@ public class PlaylistTest {
 			case 10://this is the exit condition
 				break;
 			
-			default: // this is in case they select anything elses
+			default: // this is incase they select anything elses
 				System.out.println("Please select a correct option");
 				break;
 					
